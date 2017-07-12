@@ -24,10 +24,19 @@ hello markdown
     4. 第三名
     
 ##链接
-###内部链接
-[百度](http://www.baidu.com)
-[51cto](http://www.51cto.com)
+  ###内部链接  
+     [百度](http://www.baidu.com)  
+     [51cto](http://www.51cto.com)
 
-###内部链接
+  ###内部链接  
 [t1](t1.md#t3_y)
+##引用链接  
+我们要去[163]  
+我不去[qq]
+
+
+
+##引用式链接
+[163]:http://www.163.com  
+[qq]:http://www.qq.com
  
