@@ -34,9 +34,9 @@ hello markdown
 我们要去 [163]  
 我不去 [qq]
 
+![图片](http://d.youth.cn/sk/201707/W020170713334223993942.png)
 
 <!-----------魂牵梦萦---------->
 ##引用式链接  
 [163]:  http://www.163.com  
 [qq]:  http://www.qq.com
- 
